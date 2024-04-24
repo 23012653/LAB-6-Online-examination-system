@@ -46,7 +46,7 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 ### STATECHART DIAGRAM
 ![image](https://github.com/23012653/LAB-6-Online-examination-system/assets/150777517/aaeae736-4e79-45a3-8e9e-fe5a21686d09)
 
-### PACKAGE DIAGRAM
+### PACKAGE DIAGRAM
 ![image](https://github.com/23012653/LAB-6-Online-examination-system/assets/150777517/8852e3eb-8cac-4c2f-b192-07b52dd4f031)
 
 
